@@ -1,0 +1,131 @@
+[
+  {
+    "file": "level1_assembly.json",
+    "evidence_id": "ev_c9ca89b0d1264ac7ce280a6b0c68c096eefa3c24dcc83e5292845aeb89133ca2",
+    "operation": "inspect_web_page",
+    "url": "https://nairobiassembly.go.ke/",
+    "title": "Nairobi City County Assembly \u2013 Bunge La Usawa",
+    "script_count": 39,
+    "sample_scripts": [
+      "https://nairobiassembly.go.ke/ncca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://nairobiassembly.go.ke/ncca/wp-content/themes/nrbca/js/fullcalendar.min.js?ver=6.7.11",
+      "https://nairobiassembly.go.ke/",
+      "https://nairobiassembly.go.ke/ncca/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6"
+    ],
+    "cross_portal_and_form_links": [
+      "https://nairobiassembly.go.ke",
+      "https://nairobiassembly.go.ke/",
+      "https://nairobiassembly.go.ke/#",
+      "https://nairobiassembly.go.ke/?cp=2",
+      "https://nairobiassembly.go.ke/?cp=3",
+      "https://nairobiassembly.go.ke/?cp=5",
+      "https://nairobiassembly.go.ke/?cp=6",
+      "https://nairobiassembly.go.ke/about-nairobi-city-county-assembly/"
+    ]
+  },
+  {
+    "file": "level1_husikanai.json",
+    "evidence_id": "ev_f470eb42627e4a09f2bd5d391e4299f01b161abf09146939a39ad37a3556ac5a",
+    "operation": "inspect_web_page",
+    "url": "https://husikanai.nairobi.go.ke/",
+    "title": "HusikaNai",
+    "script_count": 1,
+    "sample_scripts": [
+      "https://husikanai.nairobi.go.ke/assets/application-4fb2147d03dcd31755f425930ed943e7eac8703835e52cbe3f3de908418b3e16.js"
+    ],
+    "cross_portal_and_form_links": [
+      "https://husikanai.nairobi.go.ke",
+      "https://husikanai.nairobi.go.ke/",
+      "https://husikanai.nairobi.go.ke/#main",
+      "https://husikanai.nairobi.go.ke/?locale=en",
+      "https://husikanai.nairobi.go.ke/?locale=sw-KE",
+      "https://husikanai.nairobi.go.ke/accessibility",
+      "https://husikanai.nairobi.go.ke/assets/administration-704340b4728a2293564fbcedf70cab5701bef3751a084e8df00503885df56df8.css",
+      "https://husikanai.nairobi.go.ke/assets/apple-touch-icon-200-fd606bbb0cc28b73249bb636f25f21f61f7b8ae83cb5091e4d681e8c679d1629.png"
+    ]
+  },
+  {
+    "file": "level1_nairobi_home.json",
+    "evidence_id": "ev_fe4167049c2f99d1842effb6b7f86c2c9674b1a3c00088df2798c5b72faa4ddb",
+    "operation": "inspect_web_page",
+    "url": "https://nairobi.go.ke/",
+    "title": "Home | Nairobi City County",
+    "script_count": 23,
+    "sample_scripts": [
+      "https://nairobi.go.ke/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.1.0",
+      "https://nairobi.go.ke/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+      "https://nairobi.go.ke/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.54",
+      "https://nairobi.go.ke/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0"
+    ],
+    "cross_portal_and_form_links": [
+      "https://nairobi.go.ke/wp-content/uploads/HusikaNai-5.jpeg"
+    ]
+  },
+  {
+    "file": "level1_nairobipay.json",
+    "evidence_id": "ev_fbf70e6449640f776ce62af9174b43cd63fcdb1c3c6eab76321ceec9a00d65ca",
+    "operation": "inspect_web_page",
+    "url": "https://nairobiservices.go.ke/",
+    "title": "Nairobi Pay | Nairobi eServices Portal",
+    "script_count": 11,
+    "sample_scripts": [
+      "https://nairobiservices.go.ke/_next/static/chunks/1c7169261bc4f2b5.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/ff1a16fafef87110.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/d2be314c3ece3fbe.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/def0bd2adc4852ac.js"
+    ],
+    "cross_portal_and_form_links": [
+      "https://nairobiservices.go.ke",
+      "https://nairobiservices.go.ke/",
+      "https://nairobiservices.go.ke/#",
+      "https://nairobiservices.go.ke/_next/image?url=%2Fhero.png&w=1080&q=75",
+      "https://nairobiservices.go.ke/_next/image?url=%2Fhero.png&w=3840&q=75",
+      "https://nairobiservices.go.ke/_next/image?url=%2Flogo.png&w=1080&q=75",
+      "https://nairobiservices.go.ke/_next/image?url=%2Flogo.png&w=3840&q=75",
+      "https://nairobiservices.go.ke/_next/image?url=%2Foffset.png&w=640&q=75"
+    ]
+  },
+  {
+    "file": "level1_nairobiplan.json",
+    "evidence_id": "ev_8b0d1e3c40e7dda2123c40e93e88e1227cd08ef0d107474cafce80b19d132075",
+    "operation": "inspect_web_page",
+    "url": "https://edev.nairobiservices.go.ke/",
+    "title": "Nairobi Planning and Development Management System",
+    "script_count": 9,
+    "sample_scripts": [
+      "https://edev.nairobiservices.go.ke/static/js/0.e0e1bc1f.chunk.js",
+      "https://edev.nairobiservices.go.ke/static/js/6.d452c390.chunk.js",
+      "https://edev.nairobiservices.go.ke/static/js/10.35a996af.chunk.js",
+      "https://edev.nairobiservices.go.ke/static/js/main.a146491a.chunk.js"
+    ],
+    "cross_portal_and_form_links": [
+      "https://edev.nairobiservices.go.ke",
+      "https://edev.nairobiservices.go.ke/",
+      "https://edev.nairobiservices.go.ke/#",
+      "https://edev.nairobiservices.go.ke/contact",
+      "https://edev.nairobiservices.go.ke/faqs",
+      "https://edev.nairobiservices.go.ke/login",
+      "https://edev.nairobiservices.go.ke/nccg2.png",
+      "https://edev.nairobiservices.go.ke/signup"
+    ]
+  },
+  {
+    "file": "level4_nairobipay_bundle.json",
+    "evidence_id": "ev_b812578c22632ba3f1702808b79582a58b0549177fb799bf4c70dc895aa9d899",
+    "operation": "analyze_web_bundle",
+    "url": null,
+    "title": null,
+    "script_count": 0,
+    "sample_scripts": [],
+    "cross_portal_and_form_links": [
+      "https://nairobiservices.go.ke",
+      "https://nairobiservices.go.ke/",
+      "https://nairobiservices.go.ke/_next/static/chunks/1c7169261bc4f2b5.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/82abf2d65f5428ae.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/aee6c7720838f8a2.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/d2be314c3ece3fbe.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/d702a24e2b6c48fa.js",
+      "https://nairobiservices.go.ke/_next/static/chunks/def0bd2adc4852ac.js"
+    ]
+  }
+]
